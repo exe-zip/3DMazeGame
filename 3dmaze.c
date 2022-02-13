@@ -319,10 +319,6 @@ int main(int argc, char  **argv){
     					show_map=1;
     				}
     			}
-    			else{
-    				printf("%d\n",e.xkey.keycode);
-    			}
-    			break;
 			}
     }
     
